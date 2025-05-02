@@ -163,14 +163,14 @@ className="relative  m-0 md:mr-4 md:pr-4 overflow-hidden text-center text-gray-7
                 <div className="w-full px-3 sm:px-4 xl:w-1/2">
                   <div className="py-3 sm:py-4">
                     <img
-                      src="https://i.ibb.co/gFb3ns6/image-1.jpg"
+                      src="https://i0.wp.com/askmigration.com/wp-content/uploads/2019/02/belonging-1.jpg?w=940&ssl=1"
                       alt=""
                       className="w-full rounded-2xl"
                     />
                   </div>
                   <div className="py-3 sm:py-4">
                     <img
-                      src="https://i.ibb.co/rfHFq15/image-2.jpg"
+                      src="https://www.dieferienwelt.de/wp-content/uploads/2021/01/Kanada.jpg"
                       alt=""
                       className="w-full rounded-2xl"
                     />
